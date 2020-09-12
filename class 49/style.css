@@ -1,0 +1,25 @@
+h1{
+    color:brown;
+}
+.header{
+    background-color: cyan;
+    display:flex;
+    justify-content:space-between;
+}
+.images{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+    
+}
+p{
+    text-align: center;
+    color:orange;
+}
+.items{
+    border:2px solid red;
+}
+.aboutus{
+    display:flex;
+    justify-content:center;
+}
